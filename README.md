@@ -1,2 +1,2 @@
-# MIDAS--TASK-1
-TASK 1
+# Machine Learning Bootcamp
+Logistic Regression
